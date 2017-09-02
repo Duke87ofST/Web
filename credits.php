@@ -317,6 +317,11 @@ following sources of highway information.</p>
 	      <li><a href="http://www.motorway.hu/autopalyak">Road Network</a>. Traffic conditions and maps of Hungary's motorways from the State Motorway Management Company.</li>
 	    </ul>
 	  </li>
+	  <li>Iceland
+	    <ul>
+	      <li><a href="http://vegasja.vegagerdin.is/eng/#">Vegagerdin Map</a>. Official map from Vegagerdin, Iceland's national department of transportation. </li>
+	    </ul>
+	  </li>
 	  <li>Ireland
 	    <ul>
 <li><a href="http://nra.ie/Maps/">National Roads Network Maps</a>. Official highway maps from Ireland's National Roads Authority.</li>
